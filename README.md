@@ -1,6 +1,5 @@
-### Hi there 👋
+## Hi there 👋 I am Shahar Machluf
 
-### Here's a list of repositories I was a collaborator in:
-- https://github.com/ofirrubin/OOP-Ex4
-- https://github.com/shaimoo/OOP_ariel
-- https://github.com/chenshtynmetz/Network-final_project
+### A little about me:
+I'm a computer science and mathematics student on the cyber track.  
+Passionate about programing, thinking of algorithms and working with people.
