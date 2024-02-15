@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Shahar Machluf
 
 ### A little about me:
-I'm a computer science and mathematics student on the cyber track at Ariel University.  
+I'm a computer science and mathematics graduate from Ariel University.  
 Passionate about programing, thinking of algorithms and working with people.  
   
   
